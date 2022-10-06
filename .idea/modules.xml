@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mini-coursera.iml" filepath="$PROJECT_DIR$/.idea/mini-coursera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-1-course/spring-boot-microservice-1-course.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-1-course/spring-boot-microservice-1-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-2-purchase/spring-boot-microservice-2-purchase.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-2-purchase/spring-boot-microservice-2-purchase.iml" />
+    </modules>
+  </component>
+</project>
